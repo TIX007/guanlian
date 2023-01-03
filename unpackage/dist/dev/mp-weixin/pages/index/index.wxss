@@ -1,0 +1,68 @@
+
+.container {
+	padding: 0 16px;
+}
+.title {
+	font-size: 24px;
+}
+.step {
+	margin-top: 20px;
+}
+.procedure {
+	display: flex;
+}
+.u-steps-item {
+	padding-top: 40px;
+}
+.u-slot-title {
+	display: flex;
+}
+.card {
+	width: 327px;
+	height: 82px;
+	background: #FFFFFF;
+	box-shadow: 0px 0px 6px 0px rgba(221, 221, 221, 0.5);
+	border-radius: 4px;
+	margin: 10px 0;
+}
+.card_title {
+	display: flex;
+	flex-direction: column;
+	padding: 12px 16px 12px 22px;
+}
+.card_title_top,
+.card_title_bottom {
+	display: flex;
+	justify-content: space-between;
+	margin: 4px 0;
+}
+.card_title_name {
+	margin-right: 10px;
+	font-size: 18px;
+	font-family: PingFang-SC-Bold, PingFang-SC;
+	font-weight: bold;
+	color: #414141;
+	line-height: 25px;
+}
+.card_title_post {
+	font-size: 14px;
+	font-family: PingFangSC-Regular, PingFang SC;
+	font-weight: 400;
+	color: #959595;
+	line-height: 20px;
+}
+.card_title_time {
+	font-size: 14px;
+	font-family: PingFangSC-Regular, PingFang SC;
+	font-weight: 400;
+	color: #D1D1D1;
+	line-height: 20px;
+}
+.card_title_condition {
+	font-size: 16px;
+	font-family: PingFangSC-Regular, PingFang SC;
+	font-weight: 400;
+	color: #1079E6;
+	line-height: 22px;
+}
+
