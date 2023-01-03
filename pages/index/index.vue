@@ -8,6 +8,7 @@
 				<u-button @click="show = true">打开ActionSheet</u-button> -->
 				<u-cell>
 					<view slot="title" class="u-slot-title">
+						<u-icon name="file-text-fill" color="#2979ff" size="16"></u-icon>
 						<text class="u-cell-text">张怀义</text>
 						<u-tag text="审批中" plain size="mini" type="warning">
 						</u-tag>
@@ -266,6 +267,11 @@
 
 	.u-slot-title {
 		display: flex;
+		align-items: center;
+	}
+	
+	.u-cell-text {
+		margin-left: 5px;
 	}
 	
 	.u-tag-wrapper {
