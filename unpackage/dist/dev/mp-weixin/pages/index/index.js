@@ -1,9 +1,9 @@
 (global["webpackJsonp"] = global["webpackJsonp"] || []).push([["pages/index/index"],{
 
 /***/ 165:
-/*!***********************************************************************************************!*\
-  !*** D:/0工作/北京杰智融/贵州银行/小程序/uView2.0重磅发布，利剑出鞘，一统江湖示例/main.js?{"page":"pages%2Findex%2Findex"} ***!
-  \***********************************************************************************************/
+/*!*******************************************************************************!*\
+  !*** D:/0工作/北京杰智融/贵州银行/小程序/guanlian/main.js?{"page":"pages%2Findex%2Findex"} ***!
+  \*******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -22,9 +22,9 @@ createPage(_index.default);
 /***/ }),
 
 /***/ 166:
-/*!****************************************************************************!*\
-  !*** D:/0工作/北京杰智融/贵州银行/小程序/uView2.0重磅发布，利剑出鞘，一统江湖示例/pages/index/index.vue ***!
-  \****************************************************************************/
+/*!************************************************************!*\
+  !*** D:/0工作/北京杰智融/贵州银行/小程序/guanlian/pages/index/index.vue ***!
+  \************************************************************/
 /*! no static exports found */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -63,9 +63,9 @@ component.options.__file = "pages/index/index.vue"
 /***/ }),
 
 /***/ 167:
-/*!***********************************************************************************************************!*\
-  !*** D:/0工作/北京杰智融/贵州银行/小程序/uView2.0重磅发布，利剑出鞘，一统江湖示例/pages/index/index.vue?vue&type=template&id=57280228& ***!
-  \***********************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** D:/0工作/北京杰智融/贵州银行/小程序/guanlian/pages/index/index.vue?vue&type=template&id=57280228& ***!
+  \*******************************************************************************************/
 /*! exports provided: render, staticRenderFns, recyclableRender, components */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -85,9 +85,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ 168:
-/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--16-0!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-uni-app-loader/page-meta.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js!D:/0工作/北京杰智融/贵州银行/小程序/uView2.0重磅发布，利剑出鞘，一统江湖示例/pages/index/index.vue?vue&type=template&id=57280228& ***!
-  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--16-0!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-uni-app-loader/page-meta.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js!D:/0工作/北京杰智融/贵州银行/小程序/guanlian/pages/index/index.vue?vue&type=template&id=57280228& ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! exports provided: render, staticRenderFns, recyclableRender, components */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -123,6 +123,9 @@ try {
     },
     "u-Textarea": function () {
       return Promise.all(/*! import() | uni_modules/uview-ui/components/u--textarea/u--textarea */[__webpack_require__.e("common/vendor"), __webpack_require__.e("uni_modules/uview-ui/components/u--textarea/u--textarea")]).then(__webpack_require__.bind(null, /*! @/uni_modules/uview-ui/components/u--textarea/u--textarea.vue */ 917))
+    },
+    uButton: function () {
+      return Promise.all(/*! import() | uni_modules/uview-ui/components/u-button/u-button */[__webpack_require__.e("common/vendor"), __webpack_require__.e("uni_modules/uview-ui/components/u-button/u-button")]).then(__webpack_require__.bind(null, /*! @/uni_modules/uview-ui/components/u-button/u-button.vue */ 1026))
     },
     uSteps: function () {
       return Promise.all(/*! import() | uni_modules/uview-ui/components/u-steps/u-steps */[__webpack_require__.e("common/vendor"), __webpack_require__.e("uni_modules/uview-ui/components/u-steps/u-steps")]).then(__webpack_require__.bind(null, /*! @/uni_modules/uview-ui/components/u-steps/u-steps.vue */ 923))
@@ -162,9 +165,9 @@ render._withStripped = true
 /***/ }),
 
 /***/ 169:
-/*!*****************************************************************************************************!*\
-  !*** D:/0工作/北京杰智融/贵州银行/小程序/uView2.0重磅发布，利剑出鞘，一统江湖示例/pages/index/index.vue?vue&type=script&lang=js& ***!
-  \*****************************************************************************************************/
+/*!*************************************************************************************!*\
+  !*** D:/0工作/北京杰智融/贵州银行/小程序/guanlian/pages/index/index.vue?vue&type=script&lang=js& ***!
+  \*************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -178,19 +181,44 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ 170:
-/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/babel-loader/lib!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--12-1!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js!D:/0工作/北京杰智融/贵州银行/小程序/uView2.0重磅发布，利剑出鞘，一统江湖示例/pages/index/index.vue?vue&type=script&lang=js& ***!
-  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--12-1!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js!D:/0工作/北京杰智融/贵州银行/小程序/guanlian/pages/index/index.vue?vue&type=script&lang=js& ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-
+/* WEBPACK VAR INJECTION */(function(uni) {
 
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = void 0;
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -341,10 +369,26 @@ var _default = {
       // 		name: '选项二'
       // 	}
       // ],
+      model: {
+        name: 'uView UI'
+      },
       model1: {
-        userInfo: {
-          name: 'uView UI',
-          sex: ''
+        name: 'uView UI',
+        roleTypeId: '',
+        identityType: '',
+        identityNo: '',
+        domesticOrForeign: '',
+        holdingPercent: '',
+        activeTime: '',
+        invalidTime: '',
+        relationInfo: ''
+      },
+      rules: {
+        'name': {
+          type: 'string',
+          required: true,
+          message: '请填写审批建议',
+          trigger: ['blur', 'change']
         }
       },
       list1: [{
@@ -359,19 +403,34 @@ var _default = {
     click: function click(item) {
       this.current = item.index;
       console.log('item', item);
+    },
+    submit: function submit() {
+      this.$refs.form.validate().then(function (res) {
+        uni.$u.toast('校验通过');
+      }).catch(function (errors) {
+        uni.$u.toast('校验失败');
+      });
+    },
+    quit: function quit() {
+      console.log('quit');
     } // selectClick(index){
     // 	console.log(index)
     // }
+  },
+  onReady: function onReady() {
+    //如果需要兼容微信小程序，并且校验规则中含有方法等，只能通过setRules方法设置规则。
+    this.$refs.form.setRules(this.rules);
   }
 };
 exports.default = _default;
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
 
 /***/ 171:
-/*!*************************************************************************************************************!*\
-  !*** D:/0工作/北京杰智融/贵州银行/小程序/uView2.0重磅发布，利剑出鞘，一统江湖示例/pages/index/index.vue?vue&type=style&index=0&lang=css& ***!
-  \*************************************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** D:/0工作/北京杰智融/贵州银行/小程序/guanlian/pages/index/index.vue?vue&type=style&index=0&lang=css& ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -385,9 +444,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ 172:
-/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/mini-css-extract-plugin/dist/loader.js??ref--6-oneOf-1-0!./node_modules/css-loader/dist/cjs.js??ref--6-oneOf-1-1!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--6-oneOf-1-2!./node_modules/postcss-loader/src??ref--6-oneOf-1-3!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js!D:/0工作/北京杰智融/贵州银行/小程序/uView2.0重磅发布，利剑出鞘，一统江湖示例/pages/index/index.vue?vue&type=style&index=0&lang=css& ***!
-  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/mini-css-extract-plugin/dist/loader.js??ref--6-oneOf-1-0!./node_modules/css-loader/dist/cjs.js??ref--6-oneOf-1-1!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--6-oneOf-1-2!./node_modules/postcss-loader/src??ref--6-oneOf-1-3!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js!D:/0工作/北京杰智融/贵州银行/小程序/guanlian/pages/index/index.vue?vue&type=style&index=0&lang=css& ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
